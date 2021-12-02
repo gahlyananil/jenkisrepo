@@ -1,1 +1,1 @@
-echo "hello1" > /tmp/report
+/bin/date > /tmp/report
